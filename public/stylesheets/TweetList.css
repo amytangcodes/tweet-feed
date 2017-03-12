@@ -1,0 +1,45 @@
+/*blockquote.twitter-tweet {
+	display: none;
+}*/
+
+a {
+	text-decoration: none;
+}
+
+.navbar-nav {
+	margin: 0;
+}
+
+/*  CONTENT - Header  */
+.page-header {
+  margin-top: 100px;
+}
+
+/*  CONTENT - Search  */
+#search-container {
+	margin-bottom: 20px;
+}
+
+.btn-default {
+  height: 34px;
+}
+
+/*  CONTENT - Tweet  */
+.tweet-item {
+	margin-bottom: 10px;
+}
+
+.tweet-details {
+	padding-left: 15px;
+	font-size: 11px;
+	color: #999;
+}
+
+.tweet-details a {
+	color: #999;
+}
+
+/*  CONTENT - Load More..  */
+.load-tweets-btn {
+	display: inline-block;
+}
