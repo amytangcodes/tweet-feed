@@ -31,4 +31,4 @@ Go to [http://localhost:5000](http://localhost:5000) in your browser.
 
 Resources
 ----
-- [Angular Developer Guide](https://blog.twitter.com/2014/rendering-tweets-with-angularjs-and-nodejs)
+- [Tweet Rendering w Angular and Node](https://blog.twitter.com/2014/rendering-tweets-with-angularjs-and-nodejs)
